@@ -4,3 +4,4 @@ myvenv
 db_gue.sqlite3
 /static
 .DS_Store
+code.py
